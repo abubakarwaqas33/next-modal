@@ -1,0 +1,10 @@
+.modal {
+}
+
+.mode_input_left input {
+  margin-left: -1rem;
+}
+
+.light_input input {
+  background-color: rgb(229 231 235);
+}
